@@ -112,8 +112,10 @@ printf("\n");
 printf("\n");
 printf("\n");
 
+
+
 // Loop terminates after the next calculated mean is equal to the previous mean
-}while(centroid1!=prev_centroid1&&centroid2!=prev_centroid2);
+}while(centroid1!=prev_centroid1&&centroid2!=prev_centroid2;
 
 return 0;
 
